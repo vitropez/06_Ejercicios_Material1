@@ -34,7 +34,7 @@ h2 {
 html , body{
 	line-height: 1;
 	background-color: #334873;
-	background-image: url(../_images/bg-page2.png);
+	background-image: url(../img/bg-page2.png);
 }
 
 ol, ul {

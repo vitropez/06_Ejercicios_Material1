@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb710492-bed6-48cb-a2a8-d1820825fa1c" name="Default Changelist" comment="" />
+    <list default="true" id="bb710492-bed6-48cb-a2a8-d1820825fa1c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_6-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_6-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio_6-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio_6-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Ejercicio_6-3.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Ejercicio_6-3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Ejercicio_6-3.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Ejercicio_6-3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/refs/heads/master" beforeDir="false" afterPath="$PROJECT_DIR$/refs/heads/master" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +19,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1sChmLLIXcfLEaxG4y3Yz81Og3s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,15 +46,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Ejercicio_6-2.html">
+  <component name="RunManager" selected="JavaScript Debug.Ejercicio_6-3.html">
     <configuration name="Ejercicio_6-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/06_Ejercicios_Material/Ejercicio_6-1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Ejercicio_6-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/06_Ejercicios_Material/Ejercicio_6-2.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="Ejercicio_6-3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/06_Ejercicios_Material/Ejercicio_6-3.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Ejercicio_6-3.html" />
         <item itemvalue="JavaScript Debug.Ejercicio_6-2.html" />
         <item itemvalue="JavaScript Debug.Ejercicio_6-1.html" />
       </list>
@@ -53,7 +75,9 @@
       <workItem from="1620382652850" duration="3189000" />
       <workItem from="1620470547429" duration="1654000" />
       <workItem from="1620638629209" duration="293000" />
-      <workItem from="1620639049788" duration="1552000" />
+      <workItem from="1620639049788" duration="2689000" />
+      <workItem from="1620661599708" duration="522000" />
+      <workItem from="1620662159157" duration="3332000" />
     </task>
     <servers />
   </component>
