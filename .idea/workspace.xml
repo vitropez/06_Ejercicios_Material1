@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bb710492-bed6-48cb-a2a8-d1820825fa1c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Ejercicio_6-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Ejercicio_6-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Ejercicio_6-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Ejercicio_6-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Ejercicio_6-3.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Ejercicio_6-3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/Ejercicio_6-4.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Ejercicio_6-4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +82,8 @@
       <workItem from="1620661599708" duration="522000" />
       <workItem from="1620662159157" duration="3426000" />
       <workItem from="1620725279188" duration="2023000" />
-      <workItem from="1620751292308" duration="971000" />
+      <workItem from="1620751292308" duration="1328000" />
+      <workItem from="1620903664257" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="10 de Mayo">
       <created>1620665589842</created>
@@ -95,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620727320682</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11 mayo improvement">
+      <created>1620752627918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620752627918</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10 de Mayo" />
     <MESSAGE value="11 de mayo" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 de mayo" />
+    <MESSAGE value="11 mayo improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="11 mayo improvement" />
   </component>
 </project>
